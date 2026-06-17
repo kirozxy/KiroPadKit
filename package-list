@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:lib
+com.kirozxy.kiropadkit
+com.kirozxy.kiropadkit.anchors
+com.kirozxy.kiropadkit.config
+com.kirozxy.kiropadkit.controls
+com.kirozxy.kiropadkit.ids
+com.kirozxy.kiropadkit.inputevents
+com.kirozxy.kiropadkit.inputstate
+com.kirozxy.kiropadkit.layouts.radial
+com.kirozxy.kiropadkit.layouts.radial.secondarydials
+com.kirozxy.kiropadkit.ui
