@@ -1,9 +1,9 @@
 rootProject.name = "KiroPadKit"
 
-include(":sample:androidApp")
+// include(":sample:androidApp")
 include(":lib")
-include(":sample:desktopApp")
-include(":sample:shared")
+// include(":sample:desktopApp")
+// include(":sample:shared")
 
 pluginManagement {
     repositories {
