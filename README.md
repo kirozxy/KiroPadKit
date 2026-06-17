@@ -20,7 +20,7 @@ Controls can be arranged with any composable components, but KiroPadKit also inc
 Include the library in your project. Check latest tag for version:
 
 ```kotlin
-implementation("com.github.kirozxy:KiroPadKit:1.0.0")
+implementation("com.github.kirozxy:KiroPadKit:1.0.1")
 ```
 
 Here's a how you can use PadKit to create a very simple gamepad layout.
